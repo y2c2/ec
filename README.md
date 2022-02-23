@@ -50,3 +50,7 @@ git submodule add ssh://git@<repo-address>/y2c2/ec.git ec
 ```
 git submodule foreach git pull
 ```
+
+## LICENSE
+
+GPLv3
